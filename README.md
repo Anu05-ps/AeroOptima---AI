@@ -433,13 +433,8 @@ Adopt segment-specific experience strategies.
 * Plotly
 * Streamlit
 
-### BI
 
-* Power BI
 
-### Database
-
-* SQL
 
 ---
 
@@ -451,7 +446,6 @@ AeroOptima-AI
 ├── app/
 ├── notebooks/
 ├── dashboard/
-├── sql/
 ├── screenshots/
 ├── docs/
 ├── requirements.txt
